@@ -1,0 +1,24 @@
+
+public class Basics {
+
+	public static void main(String[] args) {
+		
+
+	}
+	
+	public static void OneTo255() {
+		for(int i=1; i<=255;i++) {
+			System.out.println(i);
+		}
+		
+	}
+	
+    for(int i = 1; i <= 255; i ++) {
+        if(i % 2 != 0){
+            System.out.println(i);
+        }
+    }
+	
+}
+
+}

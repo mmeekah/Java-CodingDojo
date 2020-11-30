@@ -1,0 +1,18 @@
+package java_basics;
+
+public class ControlFlow {
+
+	public static void main(String[] args) {
+		boolean hungry = false;
+		 if (hungry) {
+			 
+			System.out.println("Feed me!");
+		 }
+		
+		 else {
+			 System.out.println("I'm full!");
+		 }
+
+	}
+
+}

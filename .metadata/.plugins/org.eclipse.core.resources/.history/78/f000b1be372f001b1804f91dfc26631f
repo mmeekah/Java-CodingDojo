@@ -1,0 +1,7 @@
+
+public class Earth {
+	public static void main(String []args) {
+		Human mika;
+		mika = new Human();
+	}
+}

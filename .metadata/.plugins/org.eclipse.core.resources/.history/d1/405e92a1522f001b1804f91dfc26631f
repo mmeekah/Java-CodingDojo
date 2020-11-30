@@ -1,0 +1,12 @@
+import java.lang.Math;
+public class Pythogorean {
+	
+	public static void main (String []  args) {
+		
+	
+	
+	public double calcHypotenuse(int legA, int legB) {
+		
+	}
+}
+}

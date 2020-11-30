@@ -1,0 +1,13 @@
+
+public class Earth {
+	
+	public static void main(String []args) {
+		
+		Human mika;
+		mika = new Human();
+		mika.age = 27;
+		mika.eyeColor="black";
+		mika.height= 160;
+		mika.name ="Mika Aitassova";
+	}
+}

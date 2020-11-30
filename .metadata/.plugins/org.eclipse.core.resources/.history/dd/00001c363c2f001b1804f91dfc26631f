@@ -1,0 +1,26 @@
+
+public class Animal {
+	
+	String animal;
+	int age;
+	String gender;
+	int weight;
+	
+	
+	public Animal(String animal,int age, String gender, int weight) {
+		super();
+		this.animal = animal;
+		this.age = age;
+		this.gender = gender;
+		this.weight=weight;
+		
+	}
+	
+	public void eat() {
+		System.out.println("Eating...");
+	}
+	public void walk() {
+		System.out.println("Walking...");
+	}
+
+}

@@ -1,0 +1,10 @@
+package java_basics;
+
+public class MyUtils {
+	
+	public static void printSomeJunk(String arg) {
+		System.out.println("from my utils");
+	}
+	
+
+}
