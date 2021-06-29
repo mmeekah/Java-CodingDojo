@@ -1,0 +1,10 @@
+body {
+	padding: 50px;
+	text-align: center;
+}
+
+button {
+	font-size: 1.25em !important;
+	font-weight: bold !important; 
+	margin: 50px !important;
+}

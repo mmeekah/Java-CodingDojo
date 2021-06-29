@@ -1,6 +1,0 @@
-package java_basics;
-
-public class MyUtils {
-	System.out.println("from my utils");
-
-}

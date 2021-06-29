@@ -1,0 +1,22 @@
+.block {
+	display: block;	
+}
+
+body {
+	padding: 50px;
+	text-align: center;
+}
+
+button {
+	foint-weight: bold !important;
+}
+
+textarea {
+	height: 40px !important;	
+	width: 500px !important;	
+}
+
+td {
+	font-weight: bold;
+	text-align: left;
+}

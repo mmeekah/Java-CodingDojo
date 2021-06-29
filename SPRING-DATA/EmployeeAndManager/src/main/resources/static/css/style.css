@@ -1,0 +1,21 @@
+header h1 {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+header a {
+	float: right;
+	margin: 10px 20px 0 0;
+}
+
+table tr[data-href] {
+    cursor: pointer;
+}
+
+table th {
+	font-size: 1.2em;
+}
+
+ul {
+	list-style-type:none;
+}

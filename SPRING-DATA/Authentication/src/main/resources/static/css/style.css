@@ -1,0 +1,9 @@
+header h1 {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+header a {
+	float: right;
+	margin: 10px 20px 0 0;
+}

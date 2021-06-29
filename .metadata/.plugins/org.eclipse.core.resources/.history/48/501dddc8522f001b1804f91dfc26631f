@@ -1,9 +1,0 @@
-import java.lang.Math;
-
-public class Pythogorean {
-	
-	
-	public double calcHypotenuse(int legA, int legB) {
-		return Math.sqrt((legA* legA)+(legB * legB));
-	}
-}

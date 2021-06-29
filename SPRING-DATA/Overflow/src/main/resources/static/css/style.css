@@ -1,0 +1,13 @@
+header a {
+	float: right;
+	margin: 10px 50px 0 0;
+}
+
+header h1 {
+	display: inline-block;
+	margin-left: 50px;
+}
+
+table tr[data-href] {
+	cursor: pointer;
+}

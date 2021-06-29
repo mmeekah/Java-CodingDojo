@@ -1,0 +1,26 @@
+.btn-del {
+	border-radius: 50%;
+	padding: 0 5px;
+}
+
+header h1 {
+	display:inline-block;
+	margin-left: 15px;
+}
+
+header a {
+	float: right;
+	margin: 10px; 
+}
+
+table tr[data-href] {
+	cursor: pointer;
+}
+
+ul li {
+	list-style: none;
+}
+
+ul li h6 {
+	display: inline-block;
+}

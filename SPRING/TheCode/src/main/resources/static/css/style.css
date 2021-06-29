@@ -1,0 +1,19 @@
+body {
+	padding: 50px;
+	justify-content: center;
+	text-align: center;
+}
+
+button, li {
+	font-size: 1.25em !important;
+	font-weight: bold !important;
+}
+
+input {
+	display: block !important;
+	width: 250px !important;
+}
+
+ul {
+	list-style: none;
+}

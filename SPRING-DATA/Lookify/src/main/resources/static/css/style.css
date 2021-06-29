@@ -1,0 +1,32 @@
+header > h1{
+	display: inline-block;
+	margin-left: 50px;
+}
+
+header > h6 {
+	display: inline-block;
+}
+
+header > a {
+	float: right;
+}
+
+.inline {
+	display: inline-block !important;	
+}
+
+.search {
+	margin-right: 175px;	
+}
+
+#search {
+	width: 60% !important;
+}
+
+table tr[data-href] {
+    cursor: pointer;
+}
+
+table th {
+	font-size: 1.2em;
+}

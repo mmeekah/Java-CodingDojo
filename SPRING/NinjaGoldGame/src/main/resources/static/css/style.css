@@ -1,0 +1,30 @@
+.activities {
+	border: 1pt solid lightgrey;
+	border-radius: 5px;
+	height: 200px;
+	overflow-y: auto;
+	padding:5px;
+}
+
+body {
+	padding: 50px;
+}
+
+button {
+	font-weight:bold !important;	
+}
+
+.col {
+	border: 1pt solid black;
+	border-radius: 5px;
+	margin: 40px;
+	padding: 20px;
+	text-align: center;	
+}
+
+.goldbox {
+	border: 1pt solid lightgrey;
+	border-radius: 5px;
+	margin: 0 40px 0 20px;
+	padding: 5px;
+}
